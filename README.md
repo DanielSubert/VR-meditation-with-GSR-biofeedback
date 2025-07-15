@@ -1,7 +1,7 @@
 # VR-meditation-with-GSR-biofeedback
 This prototype VR environment integrates a Galvanic Skin Response (GSR) sensor via a Raspberry Pi Pico to deliver real-time biofeedback during meditation. The system records a user's baseline skin conductivity and triggers rainfall in the VR environment when current GSR levels rise above this baseline, indicating ineffective meditation to the user. When the user's GSR remains at or below baseline, the environment stays calm, reinforcing successful meditation. While the core functionality is implemented, **this prototype still requires refinement of the baseline calculation to ensure accurate and meaningful feedback**.
 
-The original Unity environment was developed by @BerkcanAltungoz. The integration of the meditation task, user controls, and GSR sensor was carried out by the project author with some assistance from Matteo R. Teagno. The work was supervised by Dr. Martin Schmettow (@schmettow) and Dr. Funda Yildirim, and completed as part of the "Training, Sensors and Simulation" course in the Human Factors and Engineering Psychology Master’s program at the University of Twente.
+The original Unity environment was developed by [@BerkcanAltungoz](https://github.com/BerkcanAltungoz). The integration of the meditation task, user controls, and GSR sensor was carried out by the project author with some assistance from Matteo R. Teagno. The work was supervised by Dr. Martin Schmettow [@schmettow](https://github.com/schmettow) and Dr. Funda Yildirim, and completed as part of the "Training, Sensors and Simulation" course in the Human Factors and Engineering Psychology Master’s program at the University of Twente.
 
 The following is a list of all included files and scripts, along with their descriptions.
 
