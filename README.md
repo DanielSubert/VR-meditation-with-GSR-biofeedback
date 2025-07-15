@@ -13,4 +13,4 @@ The following is a list of all included files and scripts, along with their desc
 
 **File_Maker.py** - Python code running in Visual Studio Code to read the serial port, compute the baseline and the normalised percentage change to output either a 0 or 1 into a text file saved in the Unity Directory.
 
-**RelaxAndMeditationVR-main 2** - The entire Unity project; contains the project scene called GSR Feedback (Assets/Scenes/GSR Feedback); Contains the RainScript.cs code which is the code responsible for changing the weather according to the text file output.
+**The attached Release** - The entire Unity project; contains the project scene called GSR Feedback (Assets/Scenes/GSR Feedback); Contains the RainScript.cs code which is the code responsible for changing the weather according to the text file output.
